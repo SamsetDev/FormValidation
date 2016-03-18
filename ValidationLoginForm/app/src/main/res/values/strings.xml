@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ValidationLoginForm</string>
+
+    <string name="hint_fname">First Name</string>
+    <string name="hint_lname">Last Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_cpassword">Confirm Password</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_login">Login</string>
+
+    <!--Error msg-->
+    <string name="err_fname">Enter your first name</string>
+    <string name="err_lname">Enter your last name</string>
+    <string name="err_email">Enter valid email address</string>
+    <string name="err_password">Enter the password</string>
+    <string name="err_cpassword">Enter the confirm password</string>
+    <string name="err_cmatchpassword">Do not match confirm password</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
